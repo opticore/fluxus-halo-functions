@@ -3,7 +3,7 @@ from typing import Annotated
 
 from fluxus_sdk.logger import logger
 from fluxus_sdk.func import fluxus_func
-from fluxus.types import ServiceFieldType
+from fluxus_sdk.types import ServiceFieldType
 
 
 @fluxus_func(

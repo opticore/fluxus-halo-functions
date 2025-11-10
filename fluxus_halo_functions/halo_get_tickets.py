@@ -7,7 +7,7 @@ from fluxus_sdk.types import ServiceFieldType
 
 
 @fluxus_func(
-    name="halo_get_api_token",
+    name="halo_get_tickets",
     label="Get Halo API Token",
     description="Authenticate with Halo and retrieve a bearer token.",
     dir_path="halo/",
